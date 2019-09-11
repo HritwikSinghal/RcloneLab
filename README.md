@@ -46,7 +46,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 2. Click "Run cell" (play button) that you want and follow the instruction shown in the output.
 
-    <img width="370" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/01.png">
+    <img width="370" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/01.png">
 
 - We recommend to use [**Rclone Browser**](https://github.com/MinorMole/RcloneBrowser-Portable) for file browsing and get a path for RcloneLab.
 - Use [**Google Chrome Browser**](https://www.google.com/chrome/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
@@ -55,12 +55,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Screenshot
 
 <p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/rclonelab.png">
-  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/qbittorrent.png">
-  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/jdownloader.png"><br>
-  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/youtube-dl.png">
-  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/cloud_commander.png">
-  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/netdata.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/screenshot/rclonelab.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/screenshot/qbittorrent.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/screenshot/jdownloader.png"><br>
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/screenshot/youtube-dl.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/screenshot/cloud_commander.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/docs/screenshot/netdata.png">
 </p>
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
