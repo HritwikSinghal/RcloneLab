@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="70" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/img/title_rclonelab.png">
+  <img height="70" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/img/title_rclonelab.png">
 </p>
 
 ## Introduction
@@ -11,11 +11,11 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 ## Featuring
 
 <p align="center">
-  <img height="45" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/img/title_youtube-dl.png"><br><br>
-  <img height="45" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/img/title_cloud_commander.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/img/title_netdata.png">
+  <img height="45" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/img/title_youtube-dl.png"><br><br>
+  <img height="45" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/img/title_cloud_commander.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/gh-pages/img/title_netdata.png">
 </p>
 
 ## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
@@ -55,12 +55,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Screenshot
 
 <p align="center">
-  <img height="160" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/screenshot/rclonelab.png">
-  <img height="160" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/screenshot/qbittorrent.png">
-  <img height="160" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/screenshot/jdownloader.png"><br>
-  <img height="160" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/screenshot/youtube-dl.png">
-  <img height="160" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/screenshot/cloud_commander.png">
-  <img height="160" src="https://github.com/UnluckySoviet/RcloneLab/blob/master/docs/screenshot/netdata.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/rclonelab.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/qbittorrent.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/jdownloader.png"><br>
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/youtube-dl.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/cloud_commander.png">
+  <img height="160" src="https://raw.githubusercontent.com/UnluckySoviet/RcloneLab/master/docs/screenshot/netdata.png">
 </p>
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
